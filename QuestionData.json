@@ -10,7 +10,7 @@
 
 		"question": "Which boxer was known as “The Greatest” and “The People’s Champion”?",
 		"answers": ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Sugar Ray Robinson"],
-		"correctAnswerIndex": 2,
+		"correctAnswerIndex": 1,
 		"feedback": "Muhammad Ali is widely regarded as one of the most significant and celebrated sports figures of the 20th century and as one of the greatest boxers of all time."
 
 	},
@@ -50,7 +50,7 @@
 
 		"question": "Where do people traditionally dance the flamenco?",
 		"answers": ["Spain", "Cuba", "Brazil", "Mexico"],
-		"correctAnswerIndex": 1,
+		"correctAnswerIndex": 0,
 		"feedback": "Flamenco is an art form based on the various folkloric music traditions of southern Spain."
 
 	},
