@@ -27,7 +27,7 @@
 		"question": "The Wizard of Oz lost the best picture Oscar to what movie?",
 		"answers": ["Mr. Smith Goes To Washington", "Casablanca", "Hamlet", "Gone With The Wind"],
 		"correctAnswerIndex": 3,
-		"feedback": "Gone With The Wind won ten Academy Awards that year, including Best Picture, Best Director, Best Screenplay, Best Actress (Vivien Leigh) and Best Supporting Actress (Hattie McDaniel, the first African-American to win an Oscar)."
+		"feedback": "Gone With The Wind won ten Academy Awards that year, including Best Picture, Best Director, Best Screenplay, Best Actress and Best Supporting Actress."
 
 	},
 	{
