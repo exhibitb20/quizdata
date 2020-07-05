@@ -35,7 +35,7 @@
 		"question": "How many movies have Dwayne “The Rock” Johnson and Kevin Hart appeared in together?",
 		"answers": ["4", "3", "2", "5"],
 		"correctAnswerIndex": 0,
-		"feedback": "They both appeared in Central Intelligence, Jumanji: Welcome to the Jungle, Hobbs & Shaw, and Jumanji: The Next Level"
+		"feedback": "They both appeared in Central Intelligence, Jumanji: Welcome to the Jungle, Hobbs & Shaw, and Jumanji: The Next Level."
 
 	},
 	{
@@ -75,7 +75,7 @@
 		"question": "What is the most expensive animated movie ever made?",
 		"answers": ["Finding Nemo", "Up", "Tangled", "Toy Story"],
 		"correctAnswerIndex": 2,
-		"feedback": "Tangled has an estimated budget of $260M"
+		"feedback": "Tangled has an estimated budget of $260M."
 
 	}
 
