@@ -1,0 +1,82 @@
+[{
+
+		"question": "Which of these appliances draws the most power in the house?",
+		"answers": ["A/C", "Refrigerator", "Stove", "Washer/Dryer"],
+		"correctAnswerIndex": 0,
+		"feedback": "Your A/C averages 1450 kWh per month."
+
+	},
+	{
+
+		"question": "Which boxer was known as “The Greatest” and “The People’s Champion”?",
+		"answers": ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Sugar Ray Robinson"],
+		"correctAnswerIndex": 2,
+		"feedback": "Muhammad Ali is widely regarded as one of the most significant and celebrated sports figures of the 20th century and as one of the greatest boxers of all time."
+
+	},
+	{
+
+		"question": "Which real-life actress was the inspiration behind Belle from Beauty and the Beast?",
+		"answers": ["Katharine Hepburn", "Marilyn Monroe", "Audrey Hepburn", "Julie Andrews"],
+		"correctAnswerIndex": 0,
+		"feedback": "American actress Katharine Hepburn's performance as Jo March in the film Little Women (1933) served as screenwriter Linda Woolverton's inspiration for Belle's personality."
+
+	},
+	{
+
+		"question": "The Wizard of Oz lost the best picture Oscar to what movie?",
+		"answers": ["Mr. Smith Goes To Washington", "Casablanca", "Hamlet", "Gone With The Wind"],
+		"correctAnswerIndex": 3,
+		"feedback": "Gone With The Wind won ten Academy Awards that year, including Best Picture, Best Director, Best Screenplay, Best Actress (Vivien Leigh) and Best Supporting Actress (Hattie McDaniel, the first African-American to win an Oscar)."
+
+	},
+	{
+
+		"question": "How many movies have Dwayne “The Rock” Johnson and Kevin Hart appeared in together?",
+		"answers": ["4", "3", "2", "5"],
+		"correctAnswerIndex": 0,
+		"feedback": "They both appeared in Central Intelligence, Jumanji: Welcome to the Jungle, Hobbs & Shaw, and Jumanji: The Next Level"
+
+	},
+	{
+
+		"question": "Rambutan is a type of what?",
+		"answers": ["Rodent", "Fruit", "Dance", "Disease"],
+		"correctAnswerIndex": 1,
+		"feedback": "Rambutans have a bizarre, hairy exterior that conceals a smooth, sweet white fruit within."
+
+	},
+	{
+
+		"question": "Where do people traditionally dance the flamenco?",
+		"answers": ["Spain", "Cuba", "Brazil", "Mexico"],
+		"correctAnswerIndex": 1,
+		"feedback": "Flamenco is an art form based on the various folkloric music traditions of southern Spain."
+
+	},
+	{
+
+		"question": "What is the biggest county in the United States?",
+		"answers": ["Apache County, Arizona", "Idaho County, Idaho", "San Bernardino County, California", "Sweetwater County, Wyoming"],
+		"correctAnswerIndex": 2,
+		"feedback": "San Bernardino County is 20,105.32 sq mi."
+
+	},
+	{
+
+		"question": "Who currently holds the record for hosting Saturday Night Live the most?",
+		"answers": ["Alec Baldwin", "Chevy Chase", "Steve Martin", "Tina Fey"],
+		"correctAnswerIndex": 0,
+		"feedback": "Alec Baldwin has hosted 17 times since 1990."
+
+	},
+	{
+
+		"question": "What is the most expensive animated movie ever made?",
+		"answers": ["Finding Nemo", "Up", "Tangled", "Toy Story"],
+		"correctAnswerIndex": 2,
+		"feedback": "Tangled has an estimated budget of $260M"
+
+	}
+
+]
