@@ -1,0 +1,339 @@
+[{
+        "question": "When Michael Jordan played for the Chicago Bulls, how many NBA Championships did he win?",
+        "answers": ["Six", "Four", "Three", "Seven"],
+        "correctAnswerIndex": 0,
+        "feedback": "The Bulls are most associated with former shooting guard Michael Jordan, who led the team to six NBA championships (1991–93, 1996–98)"
+    },
+    {
+        "question": "Which Williams sister has won more Grand Slam titles?",
+        "answers": ["Vanessa", "Venus", "Serena", "Michelle"],
+        "correctAnswerIndex": 2,
+        "feedback": "Venus has won 49 singles titles over the course of her career, and Serena has won 72."
+    },
+    {
+        "question": "Which racer holds the record for the most Grand Prix wins?",
+        "answers": ["Michael Schumacher", "Lewis Hamilton", "Sebastian Vettel", "Alain Prost"],
+        "correctAnswerIndex": 0,
+        "feedback": "Michael Schumacher holds the record for the most Grand Prix victories, having won 91 times."
+    },
+    {
+        "question": "Which Jamaican runner is an 11-time world champion and holds the record in the 100 and 200-meter race?",
+        "answers": ["Dean Karnazes", "Ashton Eaton", "Michael Johnson", "Usain Bolt"],
+        "correctAnswerIndex": 3,
+        "feedback": "Jamaican sprinter Usain Bolt won gold medals in the 100-metre and 200-metre races in an unprecedented three straight Olympic Games."
+    },
+    {
+        "question": "Which boxer was known as “The Greatest” and “The People’s Champion”?",
+        "answers": ["Floyd Mayweather", "Muhammad Ali", "Mike Tyson", "Sugar Ray Robinson"],
+        "correctAnswerIndex": 1,
+        "feedback": "Muhammad Ali was 'The People's Champ' as much as 'The Greatest'"
+    },
+    {
+        "question": "What country won the very first FIFA World Cup in 1930?",
+        "answers": ["Yugoslavia", "Argentina", "United States", "Uruguay"],
+        "correctAnswerIndex": 3,
+        "feedback": "The 1930 FIFA World Cup was the inaugural FIFA World Cupand took place in Uruguay from 13 to 30 July 1930."
+    },
+    {
+        "question": "Which of these events is NOT part of a decathlon?",
+        "answers": ["Hammer Throw", "Long Jump", "Discus Throw", "Javelin Throw"],
+        "correctAnswerIndex": 0,
+        "feedback": "Other events include the Pole Vault and Shot Put."
+    },
+    {
+        "question": "Which hockey team did Wayne Gretzky play for in the ‘80s?",
+        "answers": ["Montreal Canadiens", "Boston Bruins", "Edmonton Oilers", "St. Louis Blues"],
+        "correctAnswerIndex": 2,
+        "feedback": "He played his first full NHL season in 1979-80 for the Edmonton Oilers."
+    },
+    {
+        "question": "In what year was the first ever Wimbledon Championship held?",
+        "answers": ["1877", "1928", "1935", "1944"],
+        "correctAnswerIndex": 0,
+        "feedback": "On July 9, 1877, the All England Croquet and Lawn Tennis Club begins its first lawn tennis tournament at Wimbledon, then an outer-suburb of London."
+    },
+    {
+        "question": "How many soccer players should each team have on the field at the start of each match?",
+        "answers": ["10", "9", "11", "12"],
+        "correctAnswerIndex": 2,
+        "feedback": "Each team shall field 11 players on the field at one time."
+    },
+    {
+        "question": "Which singer’s real name is Stefani Joanne Angelina Germanotta?",
+        "answers": ["Lady Gaga", "P!nk", "Gwen Stefani", "Fergie"],
+        "correctAnswerIndex": 0,
+        "feedback": "Lady Gaga was born Stefani Joanne Angelina Germanotta"
+    },
+    {
+        "question": "Little Havana is the nickname of which US city?",
+        "answers": ["Cuba", "Tampa", "Miami", "Orlando"],
+        "correctAnswerIndex": 2,
+        "feedback": "Little Havana is the colorful center of Hispanic culture in Miami. "
+    },
+    {
+        "question": "Who hosted Jeaopardy! before Alex Trebeck?",
+        "answers": ["Dick Clark", "Jackie Gleason", "Johnny Carson", "Art Fleming"],
+        "correctAnswerIndex": 3,
+        "feedback": "Art Fleming hosted the NBC and syndicated versions from 1964 to 1975, and again from 1978 to 1979."
+    },
+    {
+        "question": "The Earth is approximately how many miles away from the Sun?",
+        "answers": ["9.3 million", "93 million", "39 million", "193 million"],
+        "correctAnswerIndex": 1,
+        "feedback": "93 million miles. This distance is called an astronomical unit or AU and is used to measure and compare other distances in space."
+    },
+    {
+        "question": "Shakira and Jennifer Lopez performed at the 2020 Super Bowl halftime show, but who performed at the 2019 Super bowl?",
+        "answers": ["Justin Timberlake", "Coldplay", "Maroon 5", "Lady Gaga"],
+        "correctAnswerIndex": 2,
+        "feedback": "It was headlined by American pop group Maroon 5, joined by rappers Big Boi and Travis Scott as guests."
+    },
+    {
+        "question": "In Disney’s Snow White and The Seven Dwarfs, which one of these isn’t the name of one of the seven dwarfs?",
+        "answers": ["Lazy", "Doc", "Dopey", "Bashful"],
+        "correctAnswerIndex": 0,
+        "feedback": "Their names are Grumpy, Happy, Sleepy, Bashful, Sneezy, Dopey, & Doc."
+    },
+    {
+        "question": "Two people are standing back to back. They each walk away from each other for three feet. Then they both turn left and walk for another four feet, and then stop. Now, how many feet apart are they standing?",
+        "answers": ["10", "7", "25", "5"],
+        "correctAnswerIndex": 0,
+        "feedback": "Math is hard."
+    },
+    {
+        "question": "Who was the first female artist to replace herself at No. 1 on the Billboard Hot 100?",
+        "answers": ["Beyonce", "Taylor Swift", "Lady Gaga", "Mariah Carey"],
+        "correctAnswerIndex": 1,
+        "feedback": "Taylor Swift became the first woman to replace herself at number-one after 'Blank Space' dethroned 'Shake It Off' from the top spot."
+    },
+    {
+        "question": "Who was the only Disney princess to have a tattoo?",
+        "answers": ["Moana", "Mulan", "Jasmine", "Pochahontas"],
+        "correctAnswerIndex": 3,
+        "feedback": "Pocahontas is the only Disney princess with a tattoo."
+    },
+    {
+        "question": "Three of Jim Carrey’s blockbusters –The Mask, Dumb and Dumber, and Ace Ventura: Pet Detective – were all released in what year?",
+        "answers": ["1994", "1993", "1995", "1996"],
+        "correctAnswerIndex": 0,
+        "feedback": "In total, the three movies amassed $706.1 million in worldwide box office receipts. "
+    },
+    {
+        "question": "Which martial artist began his film career as a stuntman for Bruce Lee?",
+        "answers": ["Gordon Liu", "Donnie Yen", "Jackie Chan", "Jet Li"],
+        "correctAnswerIndex": 0,
+        "feedback": "Jackie Chan began his film career as a stuntman and worked on two of Bruce Lee's films – Fist of Fury and Enter the Dragon"
+    },
+    {
+        "question": "In the 1950s, the NFL experimented with a new football that was what color?",
+        "answers": ["Orange", "White", "Red", "Yellow"],
+        "correctAnswerIndex": 1,
+        "feedback": "Players complained that it was slippery and hard to distinguish from white uniforms. By 1956, the white football was extinct in the NFL."
+    },
+    {
+        "question": "Which of these is NOT a legitimate Roman numeral?",
+        "answers": ["MMM", "CCC", "XXX", "LLL"],
+        "correctAnswerIndex": 3,
+        "feedback": "XXX = 30, CCC = 300, MMM = 3000"
+    },
+    {
+        "question": "What was country singer Loretta Lynn’s first album to be certified gold by the RIAA (Recording Industry Association of America)?",
+        "answers": ["Blue Kentucky Girl", "You Ain't Woman Enough", "Don't Come Home A Drinkin'", "Coal Miner's Daughter"],
+        "correctAnswerIndex": 2,
+        "feedback": "The album was the first by a female country singer to be certified Gold by the RIAA."
+    },
+    {
+        "question": "In which 1979 film was the spaceship called Nostromo?",
+        "answers": ["Alien", "Star Trek", "Star Wars: A New Hope", "The Cat From Outer Space"],
+        "correctAnswerIndex": 0,
+        "feedback": "Alien follows the crew of the commercial space tug Nostromo, who encounter the eponymous Alien, a deadly and aggressive extraterrestrial set loose on the ship."
+    },
+    {
+        "question": "Which movie is the following quote from? “I’m also just a girl, standing in front of a boy, asking him to love her.”",
+        "answers": ["Love Actually", "Jerry Maguire", "Bridget Jones's Diary", "Notting Hill"],
+        "correctAnswerIndex": 3,
+        "feedback": "Notting Hill starred Julia Roberts and Hugh Grant"
+    },
+    {
+        "question": "How many colors are there in the rainbow?",
+        "answers": ["6", "5", "7", "8"],
+        "correctAnswerIndex": 2,
+        "feedback": "There are seven colors in the rainbow: red, orange, yellow, green, blue, indigo and violet."
+    },
+    {
+        "question": "Which of the following was invented first?",
+        "answers": ["Radio", "Toliet Paper", "Camera", "Lightbulb"],
+        "correctAnswerIndex": 3,
+        "feedback": "The camera was invented, as we know it today, by french inventor Joseph Nicéphore Niépce in (about) 1816"
+    },
+    {
+        "question": "What was the first hit song by The Beatles?",
+        "answers": ["Love Me Do", "I Want To Hold Your Hand", "From Me To You", "Can't Buy Me Love"],
+        "correctAnswerIndex": 0,
+        "feedback": "The Beatles' first record 'Love Me Do' was released on October 5, 1962."
+    },
+    {
+        "question": "Disney’s Beauty and the Beast was the first animated film to be nominated for Best Picture at the Oscars, but what movie won the award that year?",
+        "answers": ["Schindler's List", "Dances With Wolves", "Unforgiven", "The Silence of the Lambs"],
+        "correctAnswerIndex": 3,
+        "feedback": "Beauty and The Beast lost to The Silence of the Lambs"
+    },
+    {
+        "question": "Who was the most infamous criminal held in Alcatraz?",
+        "answers": ["Ted Bundy", "John Dillinger", "Al Capone", "Timothy McVeigh"],
+        "correctAnswerIndex": 2,
+        "feedback": "Al Capoone, sometimes known by the nickname 'Scarface', was an American gangster and businessman who attained notoriety during the Prohibition era"
+    },
+    {
+        "question": "In “Willy Wonka & the Chocolate Factory”, who is the first kid the Oompa Loompas sing about?",
+        "answers": ["Augustus Gloop", "Violet Beauregarde", "Mike Teavee", "Veruca Salt"],
+        "correctAnswerIndex": 0,
+        "feedback": "The Oompa Loompas sing about Augustus Gloop after he falls into the chocolate river"
+    },
+    {
+        "question": "What was the first single from the Gwen Stefani led band No Doubt’s album “Tragic Kingdom”?",
+        "answers": ["Spiderwebs", "Don't Speak", "Just A Girl", "Excuse Me Mr."],
+        "correctAnswerIndex": 2,
+        "feedback": "'Just a Girl', which details Stefani's exasperation with female stereotypes and her father's concerned reaction to her driving home late from her boyfriend's house."
+    },
+    {
+        "question": "In the Dr. Seuss book, The Sneetches, two kinds of Sneetches were standing apart. How were they different, at least at the start?",
+        "answers": ["Some had feathers on their heads and some didn't", "Some had star on their bellies and some didn't", "Some were yellow and some were green", "Some could read with their eyes shut and some couldn't"],
+        "correctAnswerIndex": 1,
+        "feedback": "At the beginning of the story, Sneetches with stars discriminate against and shun those without."
+    },
+    {
+        "question": "Which Michael Jackson song was originally supposed to be a collaboration with Prince?",
+        "answers": ["Bad", "Thriller", "Smooth Criminal", "Billie Jean"],
+        "correctAnswerIndex": 0,
+        "feedback": "Prince declined once he learned the first line from MJ was to be 'Your butt is mine'."
+    },
+    {
+        "question": "The Sony Walkman, which was the first personal cassette player, was introduced in what year?",
+        "answers": ["1977", "1979", "1981", "1984"],
+        "correctAnswerIndex": 1,
+        "feedback": "It went on sale on July 1st, back in 1979 for $150."
+    },
+    {
+        "question": "In 2015, which rap video became the first to get 1 billion YouTube views?",
+        "answers": ["Kendrick Lamar - Humble", "Jay Z - Dirt off Your Shoulder", "Kanye West - Runaway", "Wiz Khalifa - See You Again"],
+        "correctAnswerIndex": 3,
+        "feedback": "Released from the soundtrack of the film Furious 7, 'See You Again' where Paul Walker, died in a car accident while in the middle of filming in November 2013."
+    },
+    {
+        "question": "What was the first toy to be advertised on television?",
+        "answers": ["Mr. Potato Head", "Slinky", "Barbie", "Play-Doh"],
+        "correctAnswerIndex": 0,
+        "feedback": "Mr. Potato Head was the very first toy ever advertised on television, in 1952."
+    },
+    {
+        "question": "Someone suffering from Mageirocophobia, has a fear of what?",
+        "answers": ["a fear of cooking", "a fear of bacteria", "a fear of teenagers", "a fear of magic"],
+        "correctAnswerIndex": 0,
+        "feedback": "Mageirocophobia is only considered a phobia when it interferes with daily life."
+    },
+    {
+        "question": "How old was Cher when “I Got You Babe” reached #1 on The Billboard Top 100?",
+        "answers": ["17", "26", "22", "19"],
+        "correctAnswerIndex": 2,
+        "feedback": "Cher was 19, while Sonny Bono was 31."
+    },
+    {
+        "question": "Who was the first actor to portray James Bond on screen?",
+        "answers": ["Roger Moore", "Sean Connery", "George Lazenby", "Barry Nelson"],
+        "correctAnswerIndex": 3,
+        "feedback": "Barry Nelson was the first to portray Bond on screen, in a 1954 television adaptation, 'Casino Royale'."
+    },
+    {
+        "question": "Simba, Mufasa, and Scar are probably the first names you think of when The Lion King is mentioned, but what is Simba’s mother’s name?",
+        "answers": ["Shenzi", "Sarafina", "Sarabi", "Narobi"],
+        "correctAnswerIndex": 2,
+        "feedback": "Madge Sinclair provided the voice of Sarabi in the animated film"
+    },
+    {
+        "question": "The 1997 film, Titanic, begins with treasure hunters searching for a necklace with a rare diamond. What is the name of this diamond?",
+        "answers": ["The Forever Diamond", "The Heart of the Ocean", "The Toussaint", "The Jewel of the Sea"],
+        "correctAnswerIndex": 1,
+        "feedback": "Although the Heart of the Ocean isn't real, it is based on the 45 carat Hope Diamond."
+    },
+    {
+        "question": "What is the first element on the periodic table?",
+        "answers": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+        "correctAnswerIndex": 0,
+        "feedback": "The first chemical element is Hydrogen and the last is Ununoctium"
+    },
+    {
+        "question": "What is the biggest county in the United States?",
+        "answers": ["San Bernardino County, California", "Apache County, Arizona", "Sweetwater County, Wyoming", "Idaho County, Idaho"],
+        "correctAnswerIndex": 0,
+        "feedback": "San Bernardino County is 20,105.32 sq mi."
+    },
+    {
+        "question": "What did Wednesday Addams call her headless doll on “The Addams Family”?",
+        "answers": ["Barbara Guillotin", "Louis XVI", "Joan", "Marie Antoinette"],
+        "correctAnswerIndex": 3,
+        "feedback": "Wednesday Addams' headless doll is named 'Marie Antoinette'! Of course it is!"
+    },
+    {
+        "question": "What is the name of Woody’s horse in the “Toy Story” series?",
+        "answers": ["Trigger", "Bullseye", "Comanche", "Silver"],
+        "correctAnswerIndex": 1,
+        "feedback": "Bullseye is Woody's horse and one of the characters introduced in Toy Story 2."
+    },
+    {
+        "question": "What is the fourth book in the Harry Potter series?",
+        "answers": ["The Goblet of Fire", "The Chamber of Secrets", "The Prisoner of Azkaban", "The Half-Blood Prince"],
+        "correctAnswerIndex": 0,
+        "feedback": " The Goblet of Fire follows the mystery surrounding the entry of Harry's name into the Triwizard Tournament, in which he is forced to compete."
+    },
+    {
+        "question": "Where do people traditionally dance the flamenco?",
+        "answers": ["Brazil", "Mexico", "Spain", "Cuba"],
+        "correctAnswerIndex": 2,
+        "feedback": "Flamenco is an art form based on the various folkloric music traditions of southern Spain."
+    },
+    {
+        "question": "During a 1993 U.S. Senate hearing on violence in television, Sen. Ernest F. Hollings famously referred to the cartoon “Beavis and Butt-head” as what?",
+        "answers": ["Buffcoat and Beaver", "Babe and Barney", "Bullocks and Beer", "British and Beans"],
+        "correctAnswerIndex": 0,
+        "feedback": "Buffcoat and Beaver. The error was mocked in the episode, Beavis and Butt-Head: Pool Toys"
+    },
+    {
+        "question": "Who currently holds the record for hosting Saturday Night Live the most?",
+        "answers": ["Steve Martin", "Alec Baldwin", "Chevy Chase", "Tina Fey"],
+        "correctAnswerIndex": 1,
+        "feedback": "Alec Baldwin has hosted 17 times since 1990."
+    },
+    {
+        "question": "Rambutan is a type of what?",
+        "answers": ["Rodent", "Fruit", "Dance", "Disease"],
+        "correctAnswerIndex": 1,
+        "feedback": "Rambutans have a bizarre, hairy exterior that conceals a smooth, sweet white fruit within."
+    },
+    {
+        "question": "In the 1992 film, “Buffy the Vampire Slayer”, what is Buffy’s last name?",
+        "answers": ["Frost", "Kane", "Gordon", "Summers"],
+        "correctAnswerIndex": 3,
+        "feedback": "Buffy Anne Summers is the protagonist of the story, and the series depicts her life and adventures as she grows up."
+    },
+    {
+        "question": "Which name is not one of the Sanderson Sisters from the movie “Hocus Pocus”?",
+        "answers": ["Mary", "Winifred", "Sarah", "Sybil"],
+        "correctAnswerIndex": 3,
+        "feedback": "Mary, Sarah and Winifred are the Sanderson Sisters."
+    },
+    {
+        "question": "How many movies have Dwayne “The Rock” Johnson and Kevin Hart appeared in together?",
+        "answers": ["4", "2", "3", "5"],
+        "correctAnswerIndex": 0,
+        "feedback": "They both appeared in Central Intelligence, Jumanji: Welcome to the Jungle, Hobbs & Shaw, and Jumanji: The Next Level."
+    },
+    {
+
+        "question": "Which type of booty is not described in Tim Wilson's hit song, 'Booty Man'?",
+        "answers": ["Greasy booty", "Juicy booty", "Rented booty", "Mean booty"],
+        "correctAnswerIndex": 1,
+        "feedback": "Booty, booty, booty, booty, booty."
+
+    }
+]
